@@ -1,0 +1,15 @@
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/bin/Debug/net7.0/objektai
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/bin/Debug/net7.0/objektai.deps.json
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/bin/Debug/net7.0/objektai.runtimeconfig.json
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/bin/Debug/net7.0/objektai.dll
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/bin/Debug/net7.0/objektai.pdb
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/obj/Debug/net7.0/objektai.csproj.AssemblyReference.cache
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/obj/Debug/net7.0/objektai.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/obj/Debug/net7.0/objektai.AssemblyInfoInputs.cache
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/obj/Debug/net7.0/objektai.AssemblyInfo.cs
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/obj/Debug/net7.0/objektai.csproj.CoreCompileInputs.cache
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/obj/Debug/net7.0/objektai.dll
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/obj/Debug/net7.0/refint/objektai.dll
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/obj/Debug/net7.0/objektai.pdb
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/obj/Debug/net7.0/objektai.genruntimeconfig.cache
+/Users/sarunepliskauskaite/Documents/CodeAcademy/C#/20221210/objektai/objektai/objektai/obj/Debug/net7.0/ref/objektai.dll
